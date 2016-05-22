@@ -13,7 +13,7 @@ int main()
      
      // Meu nome e meu link.
      
-     printf("Olá, meu nome é Nícolas Serrano e este programa pode ser visto no seguinte endereço do github: https://github.com/NickToadd/prog1-2016manha/blob/master/trab.c\n"); 
+     printf("Olá, meu nome é Nícolas Serrano e este programa pode ser visto no seguinte endereço do github: https://github.com/NickToadd/trabalhoAv2/blob/master/trab.c\n"); 
  
      // Utilização do for
  
